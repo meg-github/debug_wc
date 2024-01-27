@@ -1,6 +1,8 @@
+import urllib.request
+
 import streamlit as st
 import Janome
-from Janome.tokenizer import Tokenizer
+from janome.tokenizer import Tokenizer
 import collections
 from matplotlib import pyplot as plt
 from wordcloud import WordCloud
