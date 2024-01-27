@@ -1,4 +1,5 @@
 import streamlit as st
+import Janome
 from Janome.tokenizer import Tokenizer
 import collections
 from matplotlib import pyplot as plt
