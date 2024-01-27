@@ -1,5 +1,5 @@
 import streamlit as st
-from janome.tokenizer import Tokenizer
+from Janome.tokenizer import Tokenizer
 import collections
 from matplotlib import pyplot as plt
 from wordcloud import WordCloud
