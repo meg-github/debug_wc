@@ -1,6 +1,5 @@
-import urllib.request
-
 import streamlit as st
+#import MeCab
 from janome.tokenizer import Tokenizer
 import collections
 from matplotlib import pyplot as plt
